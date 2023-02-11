@@ -1,0 +1,30 @@
+body{
+    margin: 20px 50px;
+   
+}
+.nav{
+    display: flex;
+    gap: 20px;
+    padding: 20px;
+    padding-left: 20px;
+}
+.nav-div a{
+    text-decoration: none;
+    gap: 10px;
+    color: black;
+    margin-right: 10px;
+}
+.tv-body{
+    text-align: center;
+    padding-top: 300px;
+    padding-left: 100px;
+}
+.btn-first{
+    border-radius: 4px;
+    border: none;
+    background-color: palevioletred;
+    color: whitesmoke;
+    padding: 10px;
+    width: 140px;
+    font-weight: 500;
+}
